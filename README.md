@@ -59,10 +59,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohamedemad-10&show_icons=true&locale=en&theme=radical" alt="mohamedemad-10" />
 </p>
 
-<h3 align="left">Coding Activity:</h3>
-<p>
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=mohamedemad-10&theme=react-dark&hide_border=true" alt="Activity Graph" />
-</p>
 
 
 <h3 align="center">Connect with Me:</h3>
