@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://linkedin.com/in/mohamed-emad-76b21a318?utm_source=share&utm_campaign=share_vai&utm_content=profile&utm_medium-android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/your-twitter-handle" target="_blank">
@@ -31,9 +31,9 @@
 
 - 💻 I specialize in **HTML, HTML5, CSS, CSS3, Bootstrap, Tailwind CSS, and JavaScript** to build responsive and interactive web interfaces.
 
-- 🌱 I’m currently exploring **React.js** and **Next.js** to expand my frontend skills.
+- 🌱 I’m currently exploring **JavaScript** and **Tailwind CSS** to expand my frontend skills.
 
-- 🛠️ Tools & Technologies: **VS Code**, **Git & GitHub**, **Figma**
+- 🛠️ Tools & Technologies: **VS Code**, **Git & GitHub**
 
 - 🎯 Fun Fact: **I love solving coding challenges and contributing to open-source projects!**
 
