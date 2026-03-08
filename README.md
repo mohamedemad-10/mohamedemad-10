@@ -25,8 +25,7 @@
 </p>
 
 
-- 🌐 Visit my [Portfolio]((https://mohamed-emad-me.vercel.app/)) for more projects!
-
+🌐 Check out my [Portfolio](https://mohamed-emad-me.vercel.app/) to see more of my projects!
 - 💻 I specialize in **HTML, HTML5, CSS, CSS3, Bootstrap, Tailwind CSS, and JavaScript** to build responsive and interactive web interfaces.
 
 - 🌱 I’m currently exploring **JavaScript** and **Tailwind CSS** to expand my frontend skills.
