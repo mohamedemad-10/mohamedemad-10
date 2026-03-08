@@ -18,16 +18,14 @@
   <a href="https://linkedin.com/in/mohamed-emad-76b21a318?utm_source=share&utm_campaign=share_vai&utm_content=profile&utm_medium-android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white&logoWidth=30" alt="Twitter" />
-  </a>
-  <a href="mailto:mohamedemad.front@gmail.com">
+
+  <a href="mailto:mohamed.emad.deve@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white&logoWidth=30" alt="Email" />
   </a>
 </p>
 
 
-- 🌐 Visit my [Portfolio](https://protoflio-barca.vercel.app/) for more projects!
+- 🌐 Visit my [Portfolio]((https://mohamed-emad-me.vercel.app/)) for more projects!
 
 - 💻 I specialize in **HTML, HTML5, CSS, CSS3, Bootstrap, Tailwind CSS, and JavaScript** to build responsive and interactive web interfaces.
 
